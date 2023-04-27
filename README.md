@@ -10,5 +10,5 @@
 * [Contributing](#contubution)
 
 ## Introduction
-To discover the abstract topic
+To discover the extract topic of a text by scanning unstructured text to detect keywords, topics, and themes
 
