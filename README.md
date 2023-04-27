@@ -12,3 +12,8 @@
 ## Introduction
 To discover the extract topic of a text by scanning unstructured text to detect keywords, topics, and themes
 
+## Packages
+ * pyldavis
+  ```sh
+  !pip install pyldavis
+  ```
