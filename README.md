@@ -17,3 +17,10 @@ To discover the extract topic of a text by scanning unstructured text to detect 
   ```sh
   !pip install pyldavis
   ```
+## Technologies
+- Python - 3.10
+- Jupyter Notebook
+
+## Used Algorithm
+
+- LDA(Latent Dirichlet Allocation)
