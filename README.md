@@ -27,3 +27,8 @@ To discover the extract topic of a text by scanning unstructured text to detect 
 
 ## Visualization
 ![image](https://user-images.githubusercontent.com/113231185/234929999-4561f70a-6626-4e67-97aa-ebafa15718aa.png)
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
